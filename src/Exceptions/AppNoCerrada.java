@@ -1,2 +1,4 @@
-package Exceptions;public class AppNoCerrada {
+package Exceptions;
+
+public class AppNoCerrada extends Exception{
 }
